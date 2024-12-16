@@ -1,0 +1,19 @@
+2024-12-16 22:27:00,888 - aiogram.dispatcher - INFO - Start polling
+2024-12-16 22:27:01,274 - aiogram.dispatcher - INFO - Run polling for bot @rena_first_test_bot id=7833824280 - 'Первый бот для теста'
+2024-12-16 22:27:01,497 - root - INFO - 836902729.фаербол запустил бота.
+2024-12-16 22:27:01,497 - root - INFO - 836902729.фаербол запустил бота.
+2024-12-16 22:27:01,498 - root - INFO - 836902729.фаербол запустил бота.
+2024-12-16 22:27:01,499 - root - INFO - 836902729.фаербол запустил бота.
+2024-12-16 22:27:01,499 - root - INFO - 836902729.фаербол запустил бота.
+2024-12-16 22:27:01,899 - aiogram.event - INFO - Update id=580402733 is handled. Duration 401 ms by bot id=7833824280
+2024-12-16 22:27:01,901 - aiogram.event - INFO - Update id=580402735 is handled. Duration 403 ms by bot id=7833824280
+2024-12-16 22:27:02,123 - aiogram.event - INFO - Update id=580402734 is handled. Duration 624 ms by bot id=7833824280
+2024-12-16 22:27:02,144 - aiogram.event - INFO - Update id=580402732 is handled. Duration 647 ms by bot id=7833824280
+2024-12-16 22:27:02,157 - aiogram.event - INFO - Update id=580402736 is handled. Duration 657 ms by bot id=7833824280
+2024-12-16 22:27:15,790 - root - INFO - Была запрошена команда HELP.
+2024-12-16 22:27:16,012 - aiogram.event - INFO - Update id=580402737 is handled. Duration 222 ms by bot id=7833824280
+2024-12-16 22:27:28,963 - root - INFO - Была запрошена команда HELP.
+2024-12-16 22:27:29,183 - aiogram.event - INFO - Update id=580402738 is handled. Duration 219 ms by bot id=7833824280
+2024-12-16 22:27:35,831 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-12-16 22:27:35,831 - aiogram.dispatcher - INFO - Polling stopped for bot @rena_first_test_bot id=7833824280 - 'Первый бот для теста'
+2024-12-16 22:27:35,831 - aiogram.dispatcher - INFO - Polling stopped

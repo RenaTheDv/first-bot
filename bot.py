@@ -11,7 +11,9 @@ from config import TOKEN, TRANSLATE_TABLE, HELP_COMMANDS, CORRECT_SYMBOLS       
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO,
+filename='my_log.log',
+format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 class Transl(StatesGroup):
     translating = State()
